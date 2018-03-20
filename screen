@@ -1,0 +1,6 @@
+Install screen by running the following command:
+
+apt-get install screen
+To verify that screen has been installed, run <screen -v> and you will see something similar to "Screen version 4.02.01 (GNU) 19-feb-18"
+You can also run <which screen> and it will show /usr/bin/screen.
+
